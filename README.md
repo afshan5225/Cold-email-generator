@@ -37,8 +37,7 @@ The Cold Email Generator is a Streamlit application designed to create personali
    - Click "Submit" to scrape job data and generate cold emails.
    - The generated emails will be displayed in a Markdown format for easy copying.
 
-## Contributions
-Contributions are welcome! Please feel free to submit a pull request or report any issues.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
